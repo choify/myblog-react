@@ -2,6 +2,8 @@ import { Fragment } from 'react';
 
 import classes from './Layout.module.css';
 import MainNavigation from './MainNavigation';
+// import SearchField from './SearchField';
+
 
 const Layout = (props) => {
     return (
